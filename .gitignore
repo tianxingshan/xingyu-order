@@ -1,0 +1,16 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+*.war
+
+.project
+.classpath
+target/
+.settings
+.idea/
+#intellij
+*.iml
